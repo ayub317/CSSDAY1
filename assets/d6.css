@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+        padding:0px;
+}
+.main{
+  border:5px solid skyblue;
+    height:300px;
+    
+}
+.one{
+    background-color: red;
+    height:300px;
+    width:20%;
+    float:left;
+}
+.two{
+    background-color: black;
+    height:300px;
+    float:left;
+      width:80%;
+}

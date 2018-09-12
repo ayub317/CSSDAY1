@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+        padding:0px;
+}
+.main{
+  
+        
+    
+}
+.one{
+    height:250px;
+    background-color: red;
+    width:30%;
+    float:left;
+}
+.two{
+    height:600px;
+    background-color: blue;
+    width:40%;
+    float:left;
+}
+.three{
+    height:450px;
+    background-color: red;
+    width:30%;
+    float:left;
+}

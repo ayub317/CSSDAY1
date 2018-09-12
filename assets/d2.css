@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+ padding:0px;
+}
+.main{
+    margin:20px;
+    
+    clear:both;
+}
+.left{
+    background-color: mediumslateblue;
+    text-align: center;
+    width:45%;
+    height:500px;
+    float:left;
+    border:5px dashed black;
+}
+.right{
+    background-color: greenyellow;
+    text-align: center;
+    width:45%;
+    height:500px;
+    float:right;
+    border:5px dashed black;
+}

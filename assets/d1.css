@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+        padding:0px;
+}
+.header{
+    background-color: red;
+    height:10%;
+    width:100%;
+}
+.sidebar{
+    background-color: green;
+    height:530px;
+    width:30%;
+    float:left;
+}
+.maincontent{
+    background-color:blue;
+    height:530px;
+    width:70%;
+    float:right;
+}
+.bottom{
+    clear:both;
+}
+.footer{
+       background-color: yellow;
+    height:10%;
+    width:100%;
+}
